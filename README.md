@@ -1,5 +1,5 @@
 
-🎯 Project Goal:
+ Project Goal:
 
 This project demonstrates a full simulation of Quantum Teleportation using the Qiskit framework. The goal is to transmit an arbitrary quantum state from one qubit to another without physically moving it — achieved through quantum entanglement and classical communication.
 🧠 What the Code Does:
@@ -17,7 +17,7 @@ This project demonstrates a full simulation of Quantum Teleportation using the Q
 
 
 
-🎯 هدف پروژه:
+ هدف پروژه:
 
 این پروژه یک شبیه‌سازی کامل از تلپورت کوانتومی (Quantum Teleportation) است که با استفاده از Qiskit پیاده‌سازی شده. هدف این کد، انتقال حالت کوانتومی یک کیوبیت به کیوبیت دیگر بدون جابه‌جایی فیزیکی آن است، تنها با استفاده از درهم‌تنیدگی کوانتومی و کلاسیک بیت‌ها.
 🧠 آنچه در کد اتفاق می‌افتد:
