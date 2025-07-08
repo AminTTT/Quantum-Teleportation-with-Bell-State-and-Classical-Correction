@@ -1,4 +1,4 @@
-English – GitHub Description (Quantum Teleportation)
+
 🎯 Project Goal:
 
 This project demonstrates a full simulation of Quantum Teleportation using the Qiskit framework. The goal is to transmit an arbitrary quantum state from one qubit to another without physically moving it — achieved through quantum entanglement and classical communication.
